@@ -4,7 +4,7 @@
 % % % (3) calculates the MPS for each audio extraction at desired intervals
 
 % % % Parameters 
-% % % filter : Band (ex. 1-2 Hz or 0.5-1 cyc/oct) or Grid (intersection of 1-2 Hz & 0.5 cyc/oct)
+% % % filter : Band (ex. 1-2 Hz or 0.5-1 cyc/oct) or Grid (intersection of 1-2 Hz & 0.5-1 cyc/oct)
 % % % phonetic tier: phone, CVC, word, sentence - depends on TextGrid
 % % % option to save audio excerpts
 
